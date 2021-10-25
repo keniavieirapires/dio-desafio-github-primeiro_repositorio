@@ -1,0 +1,9 @@
+Links úteis para o curso
+
+Sintaxe Básica de Markdown
+
+https://www.markdownguide.org/basic-syntax/
+
+Baixar o GitHub
+
+https://desktop.github.com/
